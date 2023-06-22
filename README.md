@@ -4,7 +4,7 @@ Completed by myself, Jared Malone, Michael Winters, and William Reed
 
 The Whose Hoo Bird Feeder is an innovative device designed to provide bird enthusiasts with a better understanding of the bird population in their yard. By combining embedded technologies, such as a BeagleBone Black microcontroller, microphone, camera, beam break sensor, and a Wi-Fi module, this bird feeder offers a hands-free, automated birding experience.
 
-##Features
+## Features
 **Bird Detection:** The beam break sensor detects the presence of birds at the feeder, triggering the camera to capture images of the birds. This allows users to log and document bird visits.
 
 **Audio Recording:** The embedded system records audio during predetermined time intervals, capturing the sounds of birds calling in the vicinity of the feeder.
