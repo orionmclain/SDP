@@ -1,4 +1,4 @@
-# SDP - Whose Hoo Bird Feeder
+# SDP - Whose Hoo? Bird Feeder
 Electrical and computer engineering senior design project for the 2022-2023 academic year at UMass Amherst. 
 
 Completed by myself, Jared Malone, Michael Winters, and William Reed
