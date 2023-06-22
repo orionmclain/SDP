@@ -3,7 +3,7 @@ Electrical and computer engineering senior design project for the 2022-2023 acad
 
 Completed by myself, Jared Malone, Michael Winters, and William Reed
 
-The Whose Hoo Bird Feeder is an innovative device designed to provide bird enthusiasts with a better understanding of the bird population in their yard. By combining embedded technologies, such as a BeagleBone Black microcontroller, microphone, camera, beam break sensor, and a Wi-Fi module, this bird feeder offers a hands-free, automated birding experience.
+The Whose Hoo Bird Feeder is an embedded device designed to provide bird enthusiasts with a better understanding of the bird population in their yard. By combining embedded technologies, such as a BeagleBone Black microcontroller, microphone, camera, beam break sensor, and a Wi-Fi module, this bird feeder offers a hands-free, automated birding experience.
 
 ## Features
 **Bird Detection:** The beam break sensor detects the presence of birds at the feeder, triggering the camera to capture images of the birds. This allows users to log and document bird visits.
