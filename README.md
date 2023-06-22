@@ -16,7 +16,7 @@ The Whose Hoo Bird Feeder is an embedded device designed to provide bird enthusi
 
 **Visual Documentation:** Along with the bird identification reports, users can also view the captured images of the birds that visited the feeder. This visual documentation enhances the overall bird-watching experience.
 
-With the Embedded Bird Feeder, users can gain a deeper understanding of the bird population in their yard, track the presence of specific bird species, and contribute to bird conservation efforts by collecting valuable data, without the need of constant user interaction and prior knowledge. It serves as a fascinating tool for both bird enthusiasts and researchers alike.
+With Whose Hoo, users can gain a deeper understanding of the bird population in their yard, track the presence of specific bird species, and contribute to bird conservation efforts by collecting valuable data, without the need of constant user interaction and prior knowledge. It serves as a fascinating tool for both bird enthusiasts and researchers alike.
 
 You can view more in the link below, including a video demonstration and our final presentation.
 http://sdp.ecs.umass.edu/sdp23/team08/
